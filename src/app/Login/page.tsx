@@ -118,14 +118,14 @@ export default function LoginForm() {
               >
                 Login
               </Button>
-              <Button
+              {/* <Button
                 variant="outline"
                 className="w-full text-blue-700 border-blue-400 hover:bg-blue-50"
                 // You can add Google login handler here later
               >
                 <FcGoogle className="mr-2 h-5 w-5" />
                 Login with Google
-              </Button>
+              </Button> */}
             </div>
             <div className="mt-4 text-center text-sm text-blue-700">
               Don&apos;t have an account?{" "}

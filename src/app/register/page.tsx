@@ -163,7 +163,7 @@ export default function SignupPage() {
               {loading ? "Signing Up..." : "Sign Up"}
             </Button>
 
-            <Button
+            {/* <Button
               type="button"
               variant="outline"
               className="w-full flex items-center justify-center gap-2 border-blue-300 text-blue-700 hover:bg-blue-50"
@@ -171,7 +171,7 @@ export default function SignupPage() {
             >
               <FcGoogle className="h-5 w-5" />
               Sign Up with Google
-            </Button>
+            </Button> */}
 
             <div className="mt-2 text-sm text-center">
               Already have an account?{" "}
